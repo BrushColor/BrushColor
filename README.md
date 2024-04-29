@@ -16,4 +16,13 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+<br></br>
+
+<div>
+  <h3>Entre em contato comigo:<h3>
+  <br></br>
+   <a href="https://www.linkedin.com/in/gabyteixeira" target="_blank">LinkedIn</a>
+</div>
+
 <img src="https://raw.githubusercontent.com/gist/BrushColor/7e5ee7c5d611e9b6f114dcac3ed200ee/raw/92204a06503e6cfd8d989c2f014b6f011df78283/bottom.svg">
